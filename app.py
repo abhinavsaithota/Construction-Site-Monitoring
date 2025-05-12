@@ -1,15 +1,10 @@
-# Construction Site Monitoring - YOLOv8 + Streamlit App with Login Roles
-
-# Install dependencies:
-# pip install ultralytics streamlit
-
 import streamlit as st
 from ultralytics import YOLO
 import numpy as np
 from PIL import Image
 import os
 
-# Dummy user database (for demo)
+
 USERS = {
     "core_user": {"password": "core123", "role": "core"},
     "admin_user": {"password": "admin123", "role": "admin"},
