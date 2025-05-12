@@ -3,7 +3,5 @@ ultralytics==8.0.16  # For YOLOv8
 opencv-python
 numpy==1.21.2
 pillow==8.4.0
-supervision
-matplotlib
-pandas
+
 
