@@ -1,5 +1,5 @@
 Streamlit
-ultralytics
+ultralytics from YOLO
 opencv-python-headless
 numpy
 Pillow
