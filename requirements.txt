@@ -1,8 +1,8 @@
-Streamlit
-ultralytics
+streamlit==1.13.0
+ultralytics==8.0.16  # For YOLOv8
 opencv-python
-numpy
-Pillow
+numpy==1.21.2
+pillow==8.4.0
 supervision
 matplotlib
 pandas
